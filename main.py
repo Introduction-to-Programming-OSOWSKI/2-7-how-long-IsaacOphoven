@@ -4,4 +4,4 @@
 def howLong(w):
     return len(w)
 
-print(howLong("supercalafragalisticexpielidoshus"))
+print(howLong("supe"))
